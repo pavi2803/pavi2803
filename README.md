@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavi2803, doing Masters in Decision and Computing Sciences
-- 👀 I'm more into Data Analytics and Machine Learning!
+- 👀 I love developing software applications and also like analyzing(making sense out of) data.
 - 🌱 I’m currently learning to contribute to open source projects; also doing personal projects to explore and implement my skills :)
 - 💞️ Check out my content creation on my YouTube channel : https://www.youtube.com/channel/UC_boYUV3p6SKNImYWycHjTA/featured
 - 📫 Reach me at pavi2468kuk@gmail.com
