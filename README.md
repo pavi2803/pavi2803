@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pavi2803, a Data Analyst
+- 👋 Hi, I’m Pavithra Senthilkumar
 - 🌱 Analyzer, Solver and a Builder.
 - 📫 Reach me at pavi2468kuk@gmail.com
 
