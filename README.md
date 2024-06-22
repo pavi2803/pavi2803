@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavithra Senthilkumar 
 - 🌱 I love exploring areas in and around data science, machine learning and AI.
-- 📝 Check out my blog : 
+- 📝 Check out my blog : https://medium.com/@pavi2468kuk
 - 📫 Reach me at pavi2468kuk@gmail.com
 
 <!---
