@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Pavithra Senthilkumar
-- 🌱 Analyzer, Solver and a Builder.
+- 👋 Hi, I’m Pavithra Senthilkumar 
+- 🌱 I love exploring areas in and around data science, machine learning and AI.
+- 📝 Check out my blog : 
 - 📫 Reach me at pavi2468kuk@gmail.com
 
 <!---
