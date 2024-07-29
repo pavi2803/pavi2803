@@ -1,6 +1,7 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
-- 🌱 I have technical experience and interest in:
+🌱 I have technical experience and interest in:
+
 * Deep Learning
 * Machine Learning
 * MLOps
