@@ -1,4 +1,4 @@
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d656e7462617070792673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374](https://github.com/user-attachments/assets/c9e3c0ab-097d-431e-9925-431da7bd23de)- 👋 Hi, I’m Pavithra Senthilkumar
+👋 Hi, I’m Pavithra Senthilkumar
   
 - 🌱 I have technical experience and interest in:
 * Deep Learning
@@ -6,7 +6,7 @@
 * MLOps
 * Computer vision
 * Natural Language Processing
-* 
+  
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at pavi2468kuk@gmail.com
 
