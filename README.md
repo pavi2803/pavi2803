@@ -2,9 +2,8 @@
   
 🌱 I have technical experience and interest in:
 
+* Analytics, Machine Learning
 * Deep Learning
-* Machine Learning
-* MLOps
 * Computer vision
 * Natural Language Processing
   
