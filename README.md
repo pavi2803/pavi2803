@@ -2,9 +2,9 @@
   
 🌱 I have technical experience and interest in:
 
-* Data Science & Machine Learning : Expert in Python, SAS, R, and Java, with a deep understanding of machine learning and deep learning frameworks like TensorFlow and PyTorch.
-* Analytical Tools: Proficient in SQL, Tableau, and other tools that bring data to life, ensuring insights are both impactful and actionable.
-* Big Data & Cloud: Skilled in leveraging PySpark, Spark SQL, and Apache Hive for scalable big data processing and cloud-based machine learning pipelines.
+* Machine Learning Engineering: Expert in Python, Java, R, and SAS, with strong proficiency in machine learning frameworks like TensorFlow and PyTorch. Skilled in designing and deploying end-to-end machine learning pipelines.
+* ML Infrastructure & Tools: Proficient in SQL and familiar with MLOps practices like Docker, Kubernetes, and Airflow for building scalable and production-ready ML systems.
+* Big Data & Cloud Computing: Experienced in PySpark, Spark SQL, and Apache Hive for efficient big data processing. Familiar with cloud platforms (AWS/GCP) to develop and deploy cloud-based ML pipelines.
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at pavi2468kuk@gmail.com
