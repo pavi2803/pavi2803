@@ -2,14 +2,17 @@
   
 🌱 I have technical experience and interests in:
 
-#### Data Science & Machine Learning
-Experienced in Python, Java, R, and SAS, with strong proficiency in data science and machine learning frameworks like TensorFlow and PyTorch. Skilled in designing, analyzing, and deploying machine learning models to extract insights and drive data-driven decision-making.
+### Data Science & Machine Learning
+Passionate about extracting insights and solving business challenges through data science. Proficient in Python, R, and SAS, with experience in developing and deploying machine learning models using frameworks like TensorFlow and PyTorch. Adept at implementing predictive analytics and uncovering actionable insights to drive data-driven decision-making.
 
-#### Data Engineering & ML Pipelines
-Proficient in SQL with hands-on experience in data processing, transformation, and model deployment. Familiar with MLOps practices, including Docker and MLFlow, to build scalable, production-ready ML and data science workflows.
+### Statistical Analysis & Data Visualization
+Strong foundation in statistical modeling, hypothesis testing, and exploratory data analysis. Skilled in leveraging tools like Power BI and Python visualization libraries to present insights effectively.
 
-#### Big Data & Cloud Computing
-Skilled in PySpark, Spark SQL, and Apache Hive for efficient processing of large datasets. Familiar with AWS and GCP cloud platforms, with experience in developing and deploying cloud-based data science solutions.
+### ML Pipelines & Model Deployment
+Hands-on experience in building end-to-end machine learning pipelines, including data preprocessing, feature engineering, and model deployment. Familiar with MLOps tools like Docker and MLFlow for maintaining scalable and reliable workflows.
+
+### Big Data Analytics & Cloud Computing
+Experienced in working with large datasets using PySpark, Spark SQL, and Apache Hive for data processing and analysis. Familiar with AWS and GCP, leveraging cloud platforms to develop efficient and scalable data science solutions.
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at pavi2468kuk@gmail.com
