@@ -1,6 +1,6 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
-🌱 I have technical experience and interest in:
+🌱 I have technical experience and interests in:
 
 #### Data Science & Machine Learning
 Experienced in Python, Java, R, and SAS, with strong proficiency in data science and machine learning frameworks like TensorFlow and PyTorch. Skilled in designing, analyzing, and deploying machine learning models to extract insights and drive data-driven decision-making.
