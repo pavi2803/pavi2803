@@ -2,17 +2,17 @@
   
 🌱 I have technical experience and interests in:
 
-### Statistical Data Analysis 
-I’ve got a solid handle on stats—think modeling, hypothesis testing, and exploring data to tell a story. I also enjoy creating visuals with tools like Power BI and Python libraries (Matplotlib, Seaborn) to make data easy to understand.
-
 ### Data Science & Machine Learning
-I love diving into data and figuring out how to solve real-world problems using machine learning. I’m comfortable with Python, R, and SAS, and I’ve worked on building and deploying ML models using tools like TensorFlow and PyTorch. Predictive analytics and turning raw data into actionable insights are my jam!
 
-### ML Pipelines & Model Deployment
-I’ve worked on setting up ML pipelines—from cleaning data to engineering features and deploying models. I’m familiar with tools like Docker and MLFlow for making sure things run smoothly in production.
+Experienced in Python, R, SAS and Java with strong proficiency in frameworks like **TensorFlow** and **PyTorch**. Skilled in designing, analyzing, and deploying machine learning models to drive data-driven decision-making and deliver impactful business insights.
 
-### Big Data Analytics & Cloud Computing
-I have experience working with big datasets using PySpark, Spark SQL, and Hive. I’ve also explored AWS and GCP for building scalable, cloud-based data science projects.
+### Deep Learning
+
+Proficient in applying deep learning techniques using **TensorFlow** and **PyTorch** to solve complex problems. Experienced in designing and optimizing neural networks, generative (GANs , VAE and VQVAE), discriminative and convolutional models.
+
+### Data Processing, Pipelines & Deployments
+
+Proficient in **SQL** for data processing and transformation. Familiar with building scalable machine learning pipelines using **Docker** and **MLFlow**, ensuring seamless model deployment and MLOps practices.
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at pavi2468kuk@gmail.com
