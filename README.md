@@ -1,18 +1,14 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
-🌱 I have technical experience and interests in:
 
-### Data Science & Machine Learning
+## Data Scientist | AI & ML Enthusiast
 
-Experienced in Python, R, SAS and Java with strong proficiency in frameworks like **TensorFlow** and **PyTorch**. Skilled in designing, analyzing, and deploying machine learning models to drive data-driven decision-making and deliver impactful business insights.
+I transform complex data into actionable insights, solving business challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning (GANs, VAEs, CNNs), and model deployment; frequently utilizing - Python, R, SQL, TensorFlow, and PyTorch.
 
-### Deep Learning
 
-Proficient in applying deep learning techniques using **TensorFlow** and **PyTorch** to solve complex problems. Experienced in designing and optimizing neural networks, generative (GANs , VAE and VQVAE), discriminative and convolutional models.
-
-### Data Processing, Pipelines & Deployments
-
-Proficient in **SQL** for data processing and transformation. Familiar with building scalable machine learning pipelines using **Docker** and **MLFlow**, ensuring seamless model deployment and MLOps practices.
+🌱 I have technical experience and interests in: Data Analysis, Model development, MLOps and building scalable pipelines.
+🔹 Passionate about leveraging AI for real-world impact!
+🔹 Specialization : Deep Learning in Computer Vision 
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at pavi2468kuk@gmail.com
