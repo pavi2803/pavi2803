@@ -1,7 +1,7 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
 
-#### Data Scientist | AI & ML Enthusiast
+#### Data Scientist & ML Enthusiast
 
 I love working with complex data and to transform it into actionable insights, solving business challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning (GANs, VAEs, CNNs), and model deployment; frequently utilizing - Python, R, SQL, TensorFlow, and PyTorch.
 
