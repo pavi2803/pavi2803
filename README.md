@@ -3,7 +3,7 @@
 
 #### Data Scientist & ML Enthusiast
 
-I love working with data and transforming it into actionable insights, solving business challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning in computer vision (GANs, VAEs, CNNs), and model deployment; frequently utilizing - Python, R, SQL, TensorFlow, and PyTorch.
+I love working with data and transforming it into actionable insights, solving business challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning in computer vision and model deployment; frequently utilizing - Python, R, SQL, TensorFlow, and PyTorch.
 
 
 🌱 I have technical experience and interests in: Data Science, Model development, MLOps and building scalable pipelines.
