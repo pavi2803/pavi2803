@@ -11,7 +11,7 @@ I love working with data and transforming it into actionable insights, solving c
 🔹 Specialization : Deep Learning in Computer Vision 
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
-- 📫 Reach me at pavi2468kuk@gmail.com
+- 📫 Reach me at ps12049@usc.edu / pavi2468kuk@gmail.com
 
 <!---
 pavi2803/pavi2803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
