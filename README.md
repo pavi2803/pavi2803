@@ -1,9 +1,20 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
-
 #### Data Scientist & ML Enthusiast
 
-I love working with data and transforming it into actionable insights, solving challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning in computer vision and model deployment; frequently utilizing - Python - Numpy, Pandas, Tensorflow and Pytorch.
+I love working with data and transforming it into actionable insights, solving challenges in various domains. Skilled in machine learning, deep learning and model deployment.
+
+Technologies
+Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with.
+
+🤖 Machine Learning
+Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MlFlow
+
+☁️ Cloud
+AWS, GCP, Azure, Kubernetes, Docker, Github Actions
+
+🏗️ Non-ML
+R, Java, Object Oriented Programming, Database Management (SQL)
 
 
 🌱 I have technical experience and interests in: Data Science, MLOps (Model development and deployment) and building scalable pipelines.
