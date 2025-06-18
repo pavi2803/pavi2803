@@ -3,12 +3,11 @@
 
 #### Data Scientist & ML Enthusiast
 
-I love working with data and transforming it into actionable insights, solving challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning in computer vision and model deployment; frequently utilizing - Python, R, SQL, TensorFlow, and PyTorch.
+I love working with data and transforming it into actionable insights, solving challenges in healthcare, retail, and finance. Skilled in machine learning, deep learning in computer vision and model deployment; frequently utilizing - Python - Numpy, Pandas, Tensorflow and Pytorch.
 
 
-🌱 I have technical experience and interests in: Data Science, Model development, MLOps and building scalable pipelines.
+🌱 I have technical experience and interests in: Data Science, MLOps (Model development and deployment) and building scalable pipelines.
 🔹 Passionate about leveraging AI for real-world impact!
-🔹 Specialization : Deep Learning in Computer Vision 
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at ps12049@usc.edu / pavi2468kuk@gmail.com
