@@ -6,12 +6,15 @@ I have technical experience and interests in: Data Science, MLOps (Model develop
 
 ### Technologies
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with.
+
 #### 🤖 Machine Learning:
 Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MlFlow
 #### ☁️ Cloud:
 AWS, GCP, Azure, Kubernetes, Docker, Github Actions
 #### 🏗️ Non-ML:
 R, Java, Object Oriented Programming, Database Management (SQL)
+
+
 
   
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
