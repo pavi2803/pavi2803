@@ -4,16 +4,16 @@
 
 I have technical experience and interests in: Data Science, MLOps (Model development and deployment) and building scalable pipelines.
 
-#### Technologies
+### Technologies
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with.
 
-##### 🤖 Machine Learning:
+#### 🤖 Machine Learning:
 Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MlFlow
 
-##### ☁️ Cloud:
+#### ☁️ Cloud:
 AWS, GCP, Azure, Kubernetes, Docker, Github Actions
 
-##### 🏗️ Non-ML:
+#### 🏗️ Non-ML:
 R, Java, Object Oriented Programming, Database Management (SQL)
 
 
