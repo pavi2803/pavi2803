@@ -1,6 +1,6 @@
 👋 Hi, I’m Pavithra Senthilkumar
   
-#### Data Scientist & ML Enthusiast
+### Data Scientist & ML Enthusiast
 
 I have technical experience and interests in: Data Science, MLOps (Model development and deployment) and building scalable pipelines.
 
