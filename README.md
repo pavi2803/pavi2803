@@ -12,7 +12,7 @@ Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MlFlow
 #### ☁️ Cloud:
 AWS, GCP, Azure, Kubernetes, Docker, Github Actions
 #### 🏗️ Non-ML:
-R, Java, Object Oriented Programming, Database Management (SQL)
+R, Database Management (SQL), Data Analysis
 
 
 
