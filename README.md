@@ -8,7 +8,7 @@ I have technical experience and interests in: Data Science, MLOps (Model develop
 Below is a list of Technologies I regularly use and enjoy working with.
 
 #### Machine Learning:
-Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MlFlow
+Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, DagsHub, MLFlow
 #### Cloud:
 AWS, GCP, Azure, Kubernetes, Docker, Github Actions
 #### Non-ML:
