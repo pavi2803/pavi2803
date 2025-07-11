@@ -11,7 +11,9 @@ AWS, GCP, Azure, Kubernetes, Docker, GitHub Actions
 #### Non-ML: 
 R, SQL, Data Analysis
 
-  
+
+
+
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
 - 📫 Reach me at ps12049@usc.edu / pavi2468kuk@gmail.com
 
