@@ -7,7 +7,7 @@ Technologies I regularly use:
 #### Machine Learning: 
 Transformers, PyTorch, Scikit-Learn, LangChain, Weights & Biases, DagsHub, MLflow
 #### Cloud: 
-AWS, GCP, Azure, Kubernetes, Docker, GitHub Actions
+AWS, GCP, Azure, FastAPI, Docker, GitHub Actions
 #### Non-ML: 
 R, SQL, Data Analysis
 
