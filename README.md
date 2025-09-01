@@ -1,6 +1,6 @@
 👋 Hi, I’m Pavithra Senthilkumar
 
-### Data Scientist, AI & ML Enthusiast
+### ML & AI Engineer
 I specialize in Data Science, MLOps (model development and deployment), and building scalable pipelines. Passionate about leveraging AI to create real-world impact!
 
 - 📝 Check out my blog : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
