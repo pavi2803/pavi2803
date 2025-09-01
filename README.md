@@ -3,8 +3,8 @@
 ### ML & AI Engineer
 I specialize in Data Science, MLOps (model development and deployment), and building scalable pipelines. Passionate about leveraging AI to create real-world impact!
 
--  Check out my website : https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34
-- 📫 Reach me at ps12049@usc.edu / pavi2468kuk@gmail.com
+- Check out my website : [Website](https://pavi2803.notion.site/Pavithra-Senthilkumar-36e0d62aea2f4c8086fd279363c59b34)
+- Reach me at ps12049@usc.edu or pavi2468kuk@gmail.com
 
 
 ### 💻 Tech Stack:
